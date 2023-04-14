@@ -2,7 +2,7 @@
 
 ## About Me
 
-Welcome to my GitHub profile! I'm a highly skilled and experienced backend developer with a passion for using C# to build high-performance applications. I specialize in working with async, requests, and concurrency to deliver efficient, scalable solutions that meet the needs of modern businesses.
+Welcome to my GitHub profile! I'm a skilled and experienced backend developer with a passion for using C# to build high-performance applications. I specialize in working with async, requests, and concurrency to deliver efficient, scalable solutions that meet the needs of modern businesses.
 
 Over the years, I've honed my skills in the .NET framework, building robust systems that are reliable, secure, and feature-rich. Whether you're looking for someone to build a custom backend for your web or mobile application, or you need someone to optimize your existing backend for better performance, I'm here to help.
 
