@@ -24,5 +24,3 @@ If you're interested in working with me, please don't hesitate to get in touch! 
   [![Discord](https://img.shields.io/badge/Discord-Online-blue?logo=discord)](https://discord.com/users/1096450883992158350)
   
 </div>
-
-Thank you for taking the time to read my profile, and I look forward to hearing from you soon!
