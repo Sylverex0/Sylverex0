@@ -10,6 +10,6 @@ If you'd like to get in touch, feel free to reach out to me on Discord! Here's m
 
 <div align="center">
   
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1096450883992158350)](https://discord.com/users/1096450883992158350)
+  [![Discord](https://img.shields.io/badge/Discord-Online-blue?logo=discord)](https://discord.com/users/1096450883992158350)
   
 </div>
