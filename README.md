@@ -22,6 +22,8 @@ If you're interested in working with me, please don't hesitate to get in touch! 
 <div align="center">
   
   [![Discord](https://img.shields.io/badge/Discord-Online-blue?logo=discord)](https://discord.com/users/1096450883992158350)
-  sylver#3544
+  <div align = "center">
+    sylver#3544
+    </div>
   
 </div>
