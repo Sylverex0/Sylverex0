@@ -1,1 +1,1 @@
-Github loves to not show my projects
+Remind on why i use this stupid website
